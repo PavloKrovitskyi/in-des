@@ -4318,7 +4318,7 @@
                 if (this.value) this.classList.add("has-value"); else this.classList.remove("has-value");
             }));
         }));
-        window["FLS"] = true;
+        window["FLS"] = false;
         isWebp();
         addLoadedClass();
         menuInit();
